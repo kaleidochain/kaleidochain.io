@@ -1,0 +1,74 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kaleido"
+theme = "syna"
+
+[params]
+  name = "Kaleido"
+
+
+[[menu.main]]
+  url = "/"
+  name = "首页"
+  weight = 1
+
+[[menu.main]]
+  url = "https://kallet.kaleidochain.io"
+  name = "钱包"
+  weight = 10
+
+[[menu.main]]
+  url = "https://kalscan.io"
+  name = "区块链浏览器"
+  weight = 20
+
+[[menu.main]]
+  url = "https://docs.kaleidochain.io/"
+  name = "开发者文档"
+  weight = 30
+
+[[menu.footer]]
+  url = "https://kaleidochain.io/docs/whitepaper_zh.pdf"
+  name = "白皮书"
+  weight = 5
+
+[[menu.footer]]
+  url = "https://docs.kaleidochain.io"
+  name = "开发者文档"
+  weight = 7
+
+[[menu.footer]]
+  url = "https://kallet.kaleidochain.io"
+  name = "钱包"
+  weight = 10
+
+[[menu.footer]]
+  url = "https://kalscan.io"
+  name = "区块链浏览器"
+  weight = 20
+
+[[menu.footer]]
+  url = "https://weibo.com/unicointop"
+  name = "官方微博"
+  weight = 25
+
+[[menu.footer]]
+  url = "https://digifinex.vip"
+  name = "交易平台DigiFinex"
+  weight = 30
+
+[[menu.footer]]
+  url = "https://www.feixiaohao.com/currencies/kaleidotoken/"
+  name = "行情平台非小号"
+  weight = 40
+
+#[[menu.copyright_footer]]
+#  url = "/about/"
+#  name = "关于我们"
+#  weight = 10
+#
+#[[menu.copyright_footer]]
+#  url = "/faq/"
+#  name = "常见问题"
+#  weight = 20
+#
