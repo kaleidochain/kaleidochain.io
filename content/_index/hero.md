@@ -10,8 +10,8 @@ subtitle = "<br/>MORE DECENTRALIZED, MORE TRUSTED.<br/><br/>更加分散　更�
 
 [header]
   #image = "header.jpg"
-  #image = "bg_banner_area.png"
-  image = "bg_banner2.png"
+  image = "bg_hero.jpg"
+  #image = "bg_banner2.png"
 
 [asset]
   image = "kaleido1-18.png"
