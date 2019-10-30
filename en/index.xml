@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaleido</title>
+    <link>https://kaleidochain.io/en/</link>
+    <description>Recent content on Kaleido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kaleidochain.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://kaleidochain.io/en/faq/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/en/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>繁星计划</title>
+      <link>https://kaleidochain.io/en/star-plan/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/en/star-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>官网</title>
+      <link>https://kaleidochain.io/en/</link>
+      <pubDate>Wed, 16 Oct 2019 15:22:09 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/en/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
