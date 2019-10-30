@@ -31,7 +31,7 @@ theme = "syna"
 
 [[menu.main]]
   url = "https://kaleidochain.io/en"
-  name = "en"
+  name = "EN"
   weight = 90
 
 [[menu.footer]]

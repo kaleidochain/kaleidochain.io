@@ -29,7 +29,7 @@ subtitle = "<br/>MORE DECENTRALIZED, MORE TRUSTED.<br/><br/>"
   color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Whitepaper"
+  text = "Read Whitepaper"
   url = "/docs/whitepaper_en.pdf"
   color = "dark"
 +++
