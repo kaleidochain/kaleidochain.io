@@ -6,6 +6,6 @@ weight = 40
   icon = "fas fa-handshake"
 +++
 
-[繁星计划](/star-plan/)招募优质生态节点<br/>
+[繁星计划](/zh/star-plan/)招募优质生态节点<br/>
 生态共建，合作共赢<br/>
 

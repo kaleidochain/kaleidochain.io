@@ -1,5 +1,7 @@
 baseURL = "https://kaleidochain.io/zh"
 languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
 title = "Kaleido"
 theme = "syna"
 
@@ -8,7 +10,7 @@ theme = "syna"
 
 
 [[menu.main]]
-  url = "/"
+  url = ""
   name = "首页"
   weight = 1
 
@@ -28,7 +30,7 @@ theme = "syna"
   weight = 30
 
 [[menu.footer]]
-  url = "/kaleido_whitepaper_zh.pdf"
+  url = "kaleido_whitepaper_zh.pdf"
   name = "白皮书"
   weight = 5
 

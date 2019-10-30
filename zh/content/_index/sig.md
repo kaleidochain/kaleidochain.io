@@ -20,7 +20,7 @@ subtitle = "&nbsp;<br/>"
 <p/>
 ###### 10年+ | 项目200+ | $20亿+
 
-<img alg="SIG" src="/images/siglogo.png" style="max-width:30%; margin:1em 0 1em 0;"/>
+<img alg="SIG" src="/zh/images/siglogo.png" style="max-width:30%; margin:1em 0 1em 0;"/>
 
 [海纳亚洲创投基金（SIG）](http://sig-china.com)是总部设于美国的全球领先的量化交易金融公司，拥有独有的创新、严谨的交易理念和技术，是高性能、低延迟交易的全球领导者和创新者。
 

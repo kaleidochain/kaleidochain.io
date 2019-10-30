@@ -20,17 +20,17 @@ menu_title = "相关资源"
 
 <div class="row" style="margin-top:2em; margin-left:0.5em;">
 <div class="text-center">
-  <img alt="微信公众平台" src="/images/wechat-official.jpg" width="90px"/>
+  <img alt="微信公众平台" src="/zh/images/wechat-official.jpg" width="90px"/>
   <div class="description" style="font-size: 14px;margin-top:0.25em;">微信公众号</div>
 </div>
 
 <div class="text-center" style="margin-left:2em; margin-right:2em;">
-  <img alt="微信客服号" src="/images/wechat-support.jpg" width="90px"/>
+  <img alt="微信客服号" src="/zh/images/wechat-support.jpg" width="90px"/>
   <div class="description" style="font-size: 14px;margin-top:0.25em;">微信客服号</div>
 </div>
 
 <div class="text-center">
-  <img alt="官方微博" src="/images/weibo-kaleido.png" width="90px" style="padding:5px; background: white"/>
+  <img alt="官方微博" src="/zh/images/weibo-kaleido.png" width="90px" style="padding:5px; background: white"/>
   <div class="description" style="font-size: 14px;margin-top:0.25em;">官方微博</div>
 </div>
 </div>
