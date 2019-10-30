@@ -23,10 +23,24 @@ git worktree add -B gh-pages public origin/gh-pages
 echo "Removing existing files"
 rm -rf public/*
 
-echo "Generating site"
+echo "Generating site /en"
+cd en/
 hugo
+mv public ../public/en
+cd ..
+
+echo "Generating site /zh"
+cd zh/
+hugo
+mv public ../public/zh
+cd ..
+
+echo "Generating index.html"
+cp index.html public/
+
+echo "Generating CNAME"
 printf "kaleidochain.io" > public/CNAME
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git status && git commit -m "Publishing to gh-pages by publish-to-ghpages.sh" && git push
+#cd public && git add --all && git status && git commit -m "Publishing to gh-pages by publish-to-ghpages.sh" && git push
 
