@@ -6,7 +6,7 @@ background = "light" # can influence the text color
 particles = false
 
 title = "Kaleido"
-subtitle = "<br/>MORE DECENTRALIZED, MORE TRUSTED.<br/><br/>更加分散　更可信赖<br/><br/>"
+subtitle = "<br/>MORE DECENTRALIZED, MORE TRUSTED.<br/><br/>"
 
 [header]
   #image = "header.jpg"
@@ -19,17 +19,17 @@ subtitle = "<br/>MORE DECENTRALIZED, MORE TRUSTED.<br/><br/>更加分散　更�
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "开发者文档"
+  text = "Developer Docs"
   url = "https://docs.kaleidochain.io/getting-started"
   color = "dark"
 
 [[buttons]]
-  text = "了解更多"
+  text = "Learn More"
   url = "/#banner"
   color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "查看白皮书"
-  url = "/kaleido_whitepaper_zh.pdf"
+  text = "Whitepaper"
+  url = "/docs/whitepaper_en.pdf"
   color = "dark"
 +++

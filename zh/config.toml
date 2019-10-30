@@ -29,6 +29,11 @@ theme = "syna"
   name = "开发者文档"
   weight = 30
 
+[[menu.main]]
+  url = "https://kaleidochain.io/en"
+  name = "en"
+  weight = 90
+
 [[menu.footer]]
   url = "kaleido_whitepaper_zh.pdf"
   name = "白皮书"

@@ -11,57 +11,62 @@ theme = "syna"
 
 [[menu.main]]
   url = ""
-  name = "首页"
+  name = "Home"
   weight = 1
 
 [[menu.main]]
   url = "https://kallet.kaleidochain.io"
-  name = "钱包"
+  name = "Wallet"
   weight = 10
 
 [[menu.main]]
   url = "https://kalscan.io"
-  name = "区块链浏览器"
+  name = "Explorer"
   weight = 20
 
 [[menu.main]]
   url = "https://docs.kaleidochain.io/"
-  name = "开发者文档"
+  name = "Docs"
   weight = 30
 
+[[menu.main]]
+  url = "https://kaleidochain.io/zh"
+  name = "zh"
+  weight = 90
+
 [[menu.footer]]
-  url = "docs/whitepaper_zh.pdf"
-  name = "白皮书"
+  url = "docs/whitepaper_en.pdf"
+  name = "Whitepaper"
   weight = 5
 
 [[menu.footer]]
   url = "https://docs.kaleidochain.io"
-  name = "开发者文档"
+  name = "Documentation"
   weight = 7
 
 [[menu.footer]]
   url = "https://kallet.kaleidochain.io"
-  name = "钱包"
+  name = "Wallet"
   weight = 10
 
 [[menu.footer]]
   url = "https://kalscan.io"
-  name = "区块链浏览器"
+  name = "Explorer"
   weight = 20
 
 [[menu.footer]]
   url = "https://weibo.com/unicointop"
-  name = "官方微博"
+  name = "Weibo"
   weight = 25
 
 [[menu.footer]]
   url = "https://digifinex.vip"
-  name = "交易平台DigiFinex"
+  name = "DigiFinex"
   weight = 30
 
 [[menu.footer]]
   url = "https://www.feixiaohao.com/currencies/kaleidotoken/"
-  name = "行情平台非小号"
+  name = "Feixiaohao"
   weight = 40
 
 #[[menu.copyright_footer]]
