@@ -3,8 +3,8 @@ fragment = "items"
 weight = 400
 background = "light"
 
-title = "游戏生态共建"
-subtitle= "链接开发者与玩家，搭建有价值游戏生态"
+title = "Game Ecology with Community Governance"
+subtitle= "Connecting developers and players to build a valuable game ecosystem"
 +++
 
 

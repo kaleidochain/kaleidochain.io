@@ -1,13 +1,13 @@
 +++
-title = "东南亚新兴市场增量用户支持"
+title = "Introducing new users in Southeast Asia"
 weight = 20
 
 [asset]
   icon = "fas fa-users"
 +++
 
-2000w+东南亚互联网流量持续导入<br/>
-拓展链游增量用户<br/>
+20,000,000+ new internet users.<br/>
+Getting new users for game apps.<br/>
 
 
 

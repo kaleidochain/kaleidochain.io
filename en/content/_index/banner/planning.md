@@ -4,7 +4,7 @@ weight = 30
 #title = "实用型高性能游戏公链"
 #subtitle = "#"
 
-title = "Building Game Community for Global Users with Us"
+title = "Building Game Community for Global Users Together"
 #highlight = true
 
 button_text = "Learn More"
@@ -25,7 +25,7 @@ button_url = "#planning"
   #icon = "fas fa-check"
   
 [[features]]
-  text = "Plan Star for gathering high-quality nodes"
+  text = "Plan Star for recruiting high-quality nodes"
   #icon = "fas fa-check"
 
 +++
