@@ -6,7 +6,7 @@ weight = 2000
 background = "light"
 align = "left"
 
-title = "&nbsp;<br/>Angle Investor"
+title = "&nbsp;<br/>Angel Investor"
 subtitle = "&nbsp;<br/>"
 
 #Subtitle pre and post item
