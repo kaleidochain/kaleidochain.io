@@ -14,7 +14,7 @@ menu_title = "Related Resources"
 +++
 
 
-#### Kaleido: Practical High-Performance Permissionless Blockchain for Games
+##### Kaleido: Practical High-Performance Permissionless Blockchain for Games
 
 <!--Kaleido实现了基于VRF随机算法的共识协议Algorand，使链的性能、安全性、去中心化程度达到完美平衡。面向游戏行业，Kaleido开发了分布式游戏交互引擎，助力游戏开发者低成本游戏上链，共同打造可信的游戏交互模式。-->
 
