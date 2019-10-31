@@ -36,6 +36,7 @@ section#banner h4.mt-0 {
 section#banner .card-body .features {
     padding-top: 2em;
     padding-bottom: 1em;
+    min-width: 348px;
 }
 section#banner .card-body .features p {
     margin-bottom: 1em;
