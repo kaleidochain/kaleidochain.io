@@ -1,3 +1,6 @@
+nav#nav .pl-auto {
+    width: 88px;
+}
 
 section#partners img {
     max-width: 100px;
@@ -27,6 +30,9 @@ section#community .container .row .border {
 }
 
 
+section#banner h4.mt-0 {
+    margin-bottom: -2rem !important;
+}
 section#banner .card-body .features {
     padding-top: 2em;
     padding-bottom: 1em;
