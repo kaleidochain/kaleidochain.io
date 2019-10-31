@@ -1,3 +1,6 @@
+nav#nav .pl-auto {
+    width: 88px;
+}
 
 section#partners img {
     max-width: 100px;

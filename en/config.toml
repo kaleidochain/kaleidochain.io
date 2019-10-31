@@ -29,11 +29,6 @@ theme = "syna"
   name = "Docs"
   weight = 30
 
-[[menu.main]]
-  url = "https://kaleidochain.io/zh"
-  name = '中文'
-  weight = 90
-
 [[menu.footer]]
   url = "docs/whitepaper_en.pdf"
   name = "Whitepaper"
