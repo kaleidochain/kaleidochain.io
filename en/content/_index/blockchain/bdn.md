@@ -1,14 +1,12 @@
 +++
-title = "可信中立加速网络"
+title = "Trusted independent BDN"
 weight = 40
 
 [asset]
   icon = "fas fa-bolt"
 +++
 
-最先进的Layer-0加速方案<br/>
-更快更稳定的交易确认时间<br/>
-降低用户时延提升用户体验<br/>
-
-
+The most advanced Layer-0 acceleration solution.<br/>
+Faster and more stable transaction confirmation.<br/>
+Reduce latency to improve user experience.<br/>
 
