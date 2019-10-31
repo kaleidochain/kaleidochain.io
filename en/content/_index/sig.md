@@ -6,7 +6,7 @@ weight = 2000
 background = "light"
 align = "left"
 
-title = "&nbsp;<br/>天使投资方"
+title = "&nbsp;<br/>Angle Investor"
 subtitle = "&nbsp;<br/>"
 
 #Subtitle pre and post item
@@ -16,14 +16,14 @@ subtitle = "&nbsp;<br/>"
 +++
 
 <br/>
-#### 海纳亚洲创投基金（SIG）
+#### SIG - Susquehanna International Group
 <p/>
-###### 10年+ | 项目200+ | $20亿+
+###### 10 Years | 200+ Companies | $2 Billion
 
 <img alg="SIG" src="/en/images/siglogo.png" style="max-width:30%; margin:1em 0 1em 0;"/>
 
-[海纳亚洲创投基金（SIG）](http://sig-china.com)是总部设于美国的全球领先的量化交易金融公司，拥有独有的创新、严谨的交易理念和技术，是高性能、低延迟交易的全球领导者和创新者。
+[Susquehanna International Group (SIG)](http://www.sig-china.com/index.php?/?lang=en), headquartered in the US, is a global proprietary trading and broker-dealer firm founded with an entrepreneurial mindset and a rigorous analytical approach to decision making. Over the past 30 years, SIG's business thrives at the intersection of trading, quantitative research, and technology.
 
-SIG累计投资项目200+，投资金额超过20亿美金。其秉承的长期价值投资理念，在中国市场前后投资了[今日头条](https://www.toutiao.com/)、[喜马拉雅](https://www.ximalaya.com/)、[来电科技](https://www.imlaidian.com/)等知名互联网独角兽，获得巨额回报。
+SIG began investing in private equity/venture capital in the China market in 2005 and has focused on investment in companies mainly operating in the People’s Republic of China. SIG invests across the continuum of the venture capital life-cycle, from early to late stage, and in a variety of industry sectors. In the last decade, SIG has invested in over 200+ companies including leading players such as Bona Film, CSC, KangHui, Damai, Adsage, [Toutiao](https://www.toutiao.com/), [Ximalaya](https://www.ximalaya.com/), Mobvoi, 51CC, Classbar, BabyTree, Zuiyou, 51fanli, 5miles, Codoon, Qyer, Agora, Wecash, Yitiao, Musical.ly, Flash Delivery, etc., with total investment amount exceeding $2 billion.
 
-Kaleido项目启动初期即获得SIG数百万人民币的天使投资。
+At the beginning of the Kaleido project, we received SIG's millions of angel investment in RMB.
