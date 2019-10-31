@@ -4,26 +4,28 @@ weight = 30
 #title = "实用型高性能游戏公链"
 #subtitle = "#"
 
-price = "生态共建计划"
+title = "Building Game Community for Global Users with Us"
 #highlight = true
 
-button_text = "更多详情"
+button_text = "Learn More"
 button_url = "#planning"
 
 [[features]]
-  text = "20,000,000+用户打造增量生态"
+  #text = "20,000,000+用户打造增量生态"
+  text = "New community with 20,000,000+ users"
   #icon = "fas fa-check"
 
 [[features]]
-  text = "专项游戏上链资金扶持"
+  #text = "专项游戏上链资金扶持"
+  text = "Providing initiate fund for on-chain games"
   #icon = "fas fa-check"
   
 [[features]]
-  text = "以太坊应用无缝兼容"
+  text = "Fully compatible with Ethereum dApps"
   #icon = "fas fa-check"
   
 [[features]]
-  text = "繁星计划凝聚共识的力量"
+  text = "Plan Star for gathering high-quality nodes"
   #icon = "fas fa-check"
 
 +++
