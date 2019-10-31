@@ -1,6 +1,0 @@
-[submodule "themes/syna"]
-	path = themes/syna
-	url = https://github.com/okkur/syna.git
-[submodule "zh/themes/syna"]
-	path = zh/themes/syna
-	url = https://github.com/okkur/syna.git
