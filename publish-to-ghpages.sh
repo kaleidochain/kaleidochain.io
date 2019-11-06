@@ -38,6 +38,7 @@ cd ..
 echo "Generating index.html"
 cp index.html public/
 cp public/en/favicon.ico public/favicon.ico
+cp -r docs public/
 
 echo "Generating CNAME"
 printf "kaleidochain.io" > public/CNAME
