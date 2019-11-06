@@ -55,10 +55,17 @@ subtitle = "硬件钱包级别的安全性，保护您的数字资产安全"
 
 <p/>
 
-<div style="background-color: darkblue; width: 256px; border-radius: 0.6rem; padding:0.5rem; text-align: center; line-height:1.3rem; display: inline-block;">
+<!--div style="background-color: darkblue; width: 256px; border-radius: 0.6rem; padding:0.5rem; text-align: center; line-height:1.3rem; display: inline-block;">
   <a href="https://testflight.apple.com/join/mjobfVml" style="color:white; text-decoration:none; font-size:14px" target="_blank">
     Download Apple APP Directly<br/>
     直接下载苹果安装包
+  </a>
+</div-->
+
+<div style="background-color: darkblue; width: 256px; border-radius: 0.6rem; padding:0.5rem; text-align: center; line-height:1.3rem; display: inline-block;">
+  <a style="color:white; text-decoration:none; font-size:14px" target="_blank">
+    Stay tuned<br/>
+    敬请期待
   </a>
 </div>
 
