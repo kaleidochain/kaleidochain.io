@@ -6,10 +6,19 @@
     <description>Recent content on Kaleido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://kaleidochain.io/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KAL Wallet</title>
+      <link>https://kaleidochain.io/en/download-wallet/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/en/download-wallet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FAQ</title>
