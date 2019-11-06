@@ -31,7 +31,7 @@ subtitle = "硬件钱包级别的安全性，保护您的数字资产安全"
   <br/>
 </div>
 
-<h5> For Android Users（安卓手机用户） </h5>
+<h5> 安卓手机用户 </h5>
 <a href="https://play.google.com/store/apps/details?id=io.kalscan.kalconnect">
   <img src="/zh/images/google_play@2x.png" width="256px">
 </a>
@@ -48,7 +48,7 @@ subtitle = "硬件钱包级别的安全性，保护您的数字资产安全"
 <br/>
 
 
-<h5> For iOS Users （苹果手机用户）</h5>
+<h5> 苹果手机用户 </h5>
 <!--a href="https://play.google.com/store/apps/details?id=io.kalscan.kalconnect">
   <img src="/zh/images/app_store@2x.png" width="256px">
 </a-->
@@ -62,7 +62,7 @@ subtitle = "硬件钱包级别的安全性，保护您的数字资产安全"
   </a>
 </div-->
 
-<div style="background-color: darkblue; width: 256px; border-radius: 0.6rem; padding:0.5rem; text-align: center; line-height:1.3rem; display: inline-block;">
+<div style="background-color: gray; width: 256px; border-radius: 0.6rem; padding:0.5rem; text-align: center; line-height:1.3rem; display: inline-block;">
   <a style="color:white; text-decoration:none; font-size:14px" target="_blank">
     Stay tuned<br/>
     敬请期待

@@ -62,7 +62,7 @@ subtitle = "No centralized servers, no databases.<br/>Store your private keys sa
   </a>
 </div-->
 
-<div style="background-color: darkblue; width: 256px; border-radius: 0.6rem; padding-left:0.5rem; padding-right:0.5rem; padding-top: 1rem; padding-bottom: 1rem; text-align: center; line-height:1.5rem; display: inline-block;">
+<div style="background-color: gray; width: 256px; border-radius: 0.6rem; padding-left:0.5rem; padding-right:0.5rem; padding-top: 1rem; padding-bottom: 1rem; text-align: center; line-height:1.5rem; display: inline-block;">
   <a  style="color:white; text-decoration:none; font-size:14px; ">
     Stay tuned
   </a>
