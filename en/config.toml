@@ -15,7 +15,7 @@ theme = "syna"
   weight = 1
 
 [[menu.main]]
-  url = "https://kallet.kaleidochain.io"
+  url = "https://kaleidochain.io/en/wallet"
   name = "Wallet"
   weight = 10
 
