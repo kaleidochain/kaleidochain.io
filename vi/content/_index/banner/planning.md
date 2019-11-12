@@ -4,7 +4,7 @@ weight = 30
 #title = "实用型高性能游戏公链"
 #subtitle = "#"
 
-price = "Kế hoạch xây dựng hệ sinh thái"
+title = "Kế hoạch xây dựng hệ sinh thái"
 #highlight = true
 
 button_text = "Chi tiết hơn"

@@ -4,7 +4,7 @@ weight = 10
 #title = "实用型高性能游戏公链"
 #subtitle = "#"
 
-price = "Sử dụng chuỗi hiệu suất cao"
+title = "Sử dụng chuỗi hiệu suất cao"
 #highlight = true
 
 button_text = "Chi tiết hơn"

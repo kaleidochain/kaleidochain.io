@@ -4,7 +4,7 @@ weight = 20
 #title = "实用型高性能游戏公链"
 #subtitle = "#"
 
-price = "Engine trao quyền cho Dapp"
+title = "Engine trao quyền cho Dapp"
 highlight = true
 
 button_text = "Chi tiết hơn"
