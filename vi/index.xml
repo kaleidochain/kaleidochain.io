@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaleido</title>
+    <link>https://kaleidochain.io/vi/</link>
+    <description>Recent content on Kaleido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-VN</language>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kaleidochain.io/vi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAL钱包</title>
+      <link>https://kaleidochain.io/vi/download-wallet/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/vi/download-wallet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAL钱包</title>
+      <link>https://kaleidochain.io/vi/wallet/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/vi/wallet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://kaleidochain.io/vi/faq/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/vi/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>繁星计划</title>
+      <link>https://kaleidochain.io/vi/star-plan/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/vi/star-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trang web chính thức</title>
+      <link>https://kaleidochain.io/vi/</link>
+      <pubDate>Wed, 16 Oct 2019 15:22:09 +0800</pubDate>
+      
+      <guid>https://kaleidochain.io/vi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
