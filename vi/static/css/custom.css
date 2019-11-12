@@ -1,0 +1,70 @@
+nav#nav .pl-auto {
+    width: 88px;
+}
+
+section#partners img {
+    max-width: 100px;
+    border: none!important;
+}
+
+section h2 {
+    margin-top: 2rem!important;
+}
+
+section .items .col-md-4 {
+    margin-top: 2rem!important;
+}
+
+section#community img {
+    max-width: 50%;
+    margin-bottom: 4em;
+    margin-top: 1em;
+}
+
+section#community .container {
+    padding-top: 0em!important;
+}
+
+section#community .container .row .border {
+    border: none !important;
+}
+
+
+section#banner .card-body .features {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    min-width: 348px;
+}
+section#banner .card-body .features p {
+    margin-bottom: 1em;
+}
+
+@media(min-width:768px){
+    section#ecosystem .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    section#planning .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+
+section#sig .container {
+    padding-top: 0!important;
+}
+
+section#guides h6 {
+    text-align: left;
+}
+
+
+
+section#nodelist table {
+    line-height: 3em;
+}
+
+section#content .content {
+    line-height: 2em;
+}
