@@ -30,7 +30,7 @@ theme = "syna"
   weight = 30
 
 [[menu.footer]]
-  url = "kaleido_whitepaper_zh.pdf"
+  url = "kaleido_whitepaper_en.pdf"
   name = "Sách trắng"
   weight = 5
 
@@ -45,7 +45,7 @@ theme = "syna"
   weight = 8
 
 [[menu.footer]]
-  url = "https://kaleidochain.io/zh/wallet"
+  url = "https://kaleidochain.io/en/wallet"
   name = "Ví tiền"
   weight = 10
 

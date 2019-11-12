@@ -30,6 +30,6 @@ subtitle = "<br/>Phân tán hơn và đáng tin cậy hơn<br/><br/>"
 
 [[buttons]]
   text = "Sách trắng"
-  url = "/kaleido_whitepaper_zh.pdf"
+  url = "/kaleido_whitepaper_en.pdf"
   color = "dark"
 +++
