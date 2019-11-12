@@ -35,6 +35,12 @@ hugo
 mv public ../public/zh
 cd ..
 
+echo "Generating site /vi"
+cd vi/
+hugo
+mv public ../public/vi
+cd ..
+
 echo "Generating index.html"
 cp index.html public/
 cp public/en/favicon.ico public/favicon.ico
