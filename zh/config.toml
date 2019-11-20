@@ -40,9 +40,14 @@ theme = "syna"
   weight = 7
 
 [[menu.footer]]
-  url = "https://t.me/joinchat/ORkdNxAhTMKgb1lFprYRKw"
-  name = "电报群"
+  url = "https://t.me/kaleido_en"
+  name = "电报群（英文）"
   weight = 8
+
+[[menu.footer]]
+  url = "https://t.me/kaleido_vi"
+  name = "电报群（越南）"
+  weight = 9
 
 [[menu.footer]]
   url = "https://kaleidochain.io/zh/wallet"

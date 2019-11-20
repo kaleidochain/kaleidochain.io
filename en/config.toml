@@ -40,9 +40,14 @@ theme = "syna"
   weight = 7
 
 [[menu.footer]]
-  url = "https://t.me/joinchat/ORkdNxAhTMKgb1lFprYRKw"
-  name = "Telegram Group"
+  url = "https://t.me/kaleido_en"
+  name = "Telegram(En)"
   weight = 8
+
+[[menu.footer]]
+  url = "https://t.me/kaleido_vi"
+  name = "Telegram(Vietnam)"
+  weight = 9
 
 [[menu.footer]]
   url = "https://kaleidochain.io/en/wallet"
