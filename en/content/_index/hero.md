@@ -6,7 +6,7 @@ background = "light" # can influence the text color
 particles = false
 
 title = "Kaleido"
-subtitle = "<br/>MORE DECENTRALIZED.<br/>MORE TRUSTED.<br/><br/>"
+subtitle = "<br/>MORE DECENTRALIZED<br/>MORE TRUSTED<br/><br/>"
 
 [header]
   #image = "header.jpg"
