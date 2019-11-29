@@ -68,3 +68,19 @@ section#nodelist table {
 section#content .content {
     line-height: 2em;
 }
+
+section#community img {
+    max-width: 50px;
+    margin-bottom: 0;
+}
+section#community div.mt-5 {
+    margin-top: 0px!important;
+}
+section#community div.mt-5 h2 {
+    font-size: 14px;
+}
+@media (min-width: 992px) {
+    section#community .col-lg-4 {
+        max-width: 20%;
+    }
+}
