@@ -49,6 +49,12 @@ cp -r docs public/
 echo "Generating CNAME"
 printf "kaleidochain.io" > public/CNAME
 
+echo "Add dapps"
+cd public
+mkdir dapps
+git submodule update
+cd ..
+
 echo "Updating gh-pages branch"
 cd public && git add --all && git status && git commit -m "Publishing to gh-pages by publish-to-ghpages.sh" && git push
 
