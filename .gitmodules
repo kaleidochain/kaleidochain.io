@@ -1,0 +1,3 @@
+[submodule "dapps/time-locked-wallet"]
+	path = dapps/time-locked-wallet
+	url = https://github.com/kaleidochain/dapp-time-locked-wallet
